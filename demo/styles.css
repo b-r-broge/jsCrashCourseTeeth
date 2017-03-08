@@ -1,0 +1,46 @@
+body{
+  font-family: 'Nunito', sans-serif;
+  margin: 5%;
+  text-align: center;
+}
+.pageHeader{
+margin: 0 auto 5% auto;
+color: #EF9994;
+text-transform: uppercase;
+font-weight: 800;
+font-size: 3em;
+align-items: center;
+}
+.mouth{
+  margin: 10%;
+  width: 80%;
+  height: 400px;
+  margin: auto;
+  background: #EDD3B8;
+}
+
+#teeth{
+  background: #FAF9F4;
+  margin: 5% auto;
+  width: 500px;
+  height: 300px;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+
+button{
+margin: 5%;
+outline-style: none;
+border: none;
+padding: 1% 3%;
+font-family: 'Nunito', sans-serif;
+font-size: 1em;
+background-color: #EF9994;
+color: white;
+
+}
+
+.PSA{
+  margin: 5% auto;
+}
