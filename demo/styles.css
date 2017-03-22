@@ -29,6 +29,16 @@ align-items: center;
   z-index: 2;
 }
 
+#cavity{
+  background: none;
+  width:10px;
+  height:10px;
+  z-index: 3;
+  position: relative;
+  display: block;
+  margin: -20% 20%;
+}
+
 button{
 margin: 5%;
 outline-style: none;
