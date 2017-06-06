@@ -19,6 +19,7 @@ var cavity = document.getElementById('cavity');
 
 var count = 0;
 
+
 //-------------------------------CREATE TRIGGER EVENTS-------------------------------------//
 
 //here, we are using what's called an event handler. this particular event handler is "listening" for a "click"
