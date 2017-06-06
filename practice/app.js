@@ -13,4 +13,4 @@
 
 
     //same thing for clicking the magical tooth cleaning apparatus
-      //add click event
+      //add click eventgit

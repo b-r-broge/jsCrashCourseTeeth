@@ -3,7 +3,7 @@ Using some good ol' vanilla JavaScript to change element styles.
 
 The purpose of this is to simply demonstrate one of the ways that JavaScript can interact with HTML and CSS.
 
-###The basic sequence of events for this go as follows:
+###The basic sequence of events for this go as follows###
 
 1) Click button that represents drinking coffee.
   Unfortunately, while delicious, coffee is acidic and can cause discoloration of the tooth over time.
